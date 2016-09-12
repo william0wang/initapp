@@ -26,5 +26,6 @@ dependencies {
     compile 'com.android.support:cardview-v7:24.2.0'
     compile 'com.android.support:recyclerview-v7:24.2.0'
     compile 'com.squareup.okhttp3:okhttp:3.4.1'
+    compile 'com.google.zxing:core:3.2.1'
     compile 'com.growingio.android:vds-android-agent:0.9.91@aar'
 }
